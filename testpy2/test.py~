@@ -1,0 +1,13 @@
+import mod1.display
+
+def main():
+
+	a=mod1.display()
+        a.dis()
+
+	
+
+
+if __name__=="__main__":
+	main()
+
